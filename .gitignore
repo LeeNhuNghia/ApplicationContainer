@@ -1,0 +1,4 @@
+AppContainer/bin
+AppContainer/bin/*
+AppContainer/obj
+AppContainer/obj/*
